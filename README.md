@@ -5,7 +5,7 @@
 
 ## Sobre el proyecto
 
-Aplicación desarrollada a lo largo de 3 días, como parte de un challenge de una empresa Méxicana. Pueden visualizar el proyecto en [tip-tap-toe](https://barberscommunity-g8.netlify.app/). 
+Aplicación desarrollada a lo largo de 3 días, como parte de un challenge de una empresa Méxicana. Pueden visualizar el proyecto en [tip-tap-toe](https://60ee704c0f8354e4940fb744--tip-tap-top.netlify.app/). 
 
 ## Tecnologías utilizadas
 
