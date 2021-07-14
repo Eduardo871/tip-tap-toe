@@ -1,0 +1,47 @@
+.board 
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    transition: all 0.5s;
+}
+.boardOne
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.5s;
+    margin-top: 0px;
+}
+
+.row 
+{
+    display: flex;
+    transition: all 0.5s;
+}
+
+.board  h1 
+{
+    margin: 0;
+    transition: all 0.5s;
+    margin-bottom: 20px;
+    margin-top: -10px;
+    font-size: 30px;
+}
+
+
+.textDirection1
+{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    transition: all 0.5s;
+}
+.textDirection1 span 
+{
+    cursor: pointer;
+}

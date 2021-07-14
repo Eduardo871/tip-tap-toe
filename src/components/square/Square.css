@@ -1,0 +1,38 @@
+.square 
+{
+    width: 80px;
+    height:80px;
+    background-color: #848484;
+    margin: 5px;
+    transition: all .2s;
+    border-radius: 0%;
+    clip-path: polygon(36% 0, 0 0, 0 29%, 0 57%, 0 100%, 30% 100%, 73% 100%, 100% 100%, 100% 59%, 100% 31%, 100% 0, 74% 0);
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.black
+{
+    background-color: #000000;
+    transition: all 0.5s;
+}
+.white
+{
+    background-color: #ffffff;
+    transition: all 0.5s;
+}
+
+
+.X 
+{
+    background-color: #0e0c0c;
+    clip-path: polygon(20% 0%, 0% 20%, 30% 50%, 0% 80%, 20% 100%, 50% 70%, 80% 100%, 100% 80%, 70% 50%, 100% 20%, 80% 0%, 50% 30%);
+}
+.O 
+{
+    background-color: #ffffff;
+    transition: all 0.5s;
+    border-radius: 50%;
+}
+
+
